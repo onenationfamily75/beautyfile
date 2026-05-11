@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Disallow: /checkout.html
-Disallow: /assets/products.json
+allow: /checkout.html
+allow: /assets/products.json
 
 Sitemap: https://luxenoirbeauty.shop/sitemap.xml
